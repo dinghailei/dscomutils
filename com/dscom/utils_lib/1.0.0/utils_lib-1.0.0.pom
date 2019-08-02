@@ -7,24 +7,7 @@
   <version>1.0.0</version>
   <packaging>aar</packaging>
   <dependencies>
-    <dependency>
-      <groupId>com.android.databinding</groupId>
-      <artifactId>baseLibrary</artifactId>
-      <version>3.2.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.databinding</groupId>
-      <artifactId>library</artifactId>
-      <version>3.2.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.databinding</groupId>
-      <artifactId>adapters</artifactId>
-      <version>3.2.1</version>
-      <scope>compile</scope>
-    </dependency>
+ 
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>multidex</artifactId>
@@ -59,12 +42,6 @@
       <groupId>com.android.support</groupId>
       <artifactId>cardview-v7</artifactId>
       <version>26.1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.github.chrisbanes</groupId>
-      <artifactId>PhotoView</artifactId>
-      <version>1.3.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
